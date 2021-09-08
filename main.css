@@ -1,0 +1,18 @@
+h1, h2, h3, p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+div {
+    column-count: 2;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: lightblue;
+    
+}
+
+
